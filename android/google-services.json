@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066788810685",
+    "project_id": "earn-3641e",
+    "storage_bucket": "earn-3641e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066788810685:android:fbb7f433edb464cb4a6cd4",
+        "android_client_info": {
+          "package_name": "com.jade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066788810685-g4a84857konk91d7mrqpnuj3083pnq0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yaJQAwBjh-Xf-egPst88Pmebz1-_syI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066788810685-g4a84857konk91d7mrqpnuj3083pnq0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

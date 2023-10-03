@@ -1,0 +1,20 @@
+export const HOME = 'Home';
+export const PROFILE = 'Profile';
+export const BOTTOM_TAB = 'BottomTab';
+export const HOT_STUFFS = 'HotStuffs';
+export const SEARCH_SCREEN = 'SEARCH_SCREEN';
+export const WALLPAPER_DOWNLOAD = 'WallpaperDownlaod';
+export const MERCHANDISE = 'Merchandise';
+export const TOP_TAB = 'TopTab';
+export const ON_THE_WAY = 'OnTheWay';
+export const CART_SCREEN = 'CartScreen';
+export const LOGIN_SCREEN = 'LoginScreen';
+export const OTP_SCREEN = 'OTPscreen';
+export const ADD_PROFILE_DETAILS = 'AddProfileDetails';
+export const FIRST_INITIAL_SCREEN = 'FirstInitialScreen';
+export const SECOND_INITIAL_SCREEN = 'SecondInitialScreen';
+export const THIRD_INITIAL_SCREEN = 'ThirdInitialScreen';
+export const DASHBOARD_STACK = 'DashBoardStack';
+export const WORKOUT_STACK = 'WorkOutStack';
+export const CHAT_STACK = 'ChatStack';
+
